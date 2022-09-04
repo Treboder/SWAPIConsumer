@@ -1,6 +1,6 @@
 package com.example.SWAPIConsumer.entity;
 
-public class Actor {
+public class Character {
 
     private String name;
     private int height;
@@ -12,7 +12,7 @@ public class Actor {
     private String gender;
     private String homeworld;
 
-    public Actor() {}
+    public Character() {}
 
     public String getName() {
         return name;
