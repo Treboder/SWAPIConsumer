@@ -1,6 +1,7 @@
 # Getting Started
 Simple Spring Boot app calling the famous [Star Wars API](https://swapi.dev/)
 using spring-boot-starter-web and spring-boot-starter-webflux.
+This app is calling SWAPI on startup and logs some results as info to the screen.  
 
 ### Reference Documentation
 For further reference, please consider the following sections:
